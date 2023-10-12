@@ -1,7 +1,7 @@
 # Recomendação de filmes
  Algoritmo de recomendação de filmes utilizando *cosine similarity* e técnicas de NLP
 
- Cheque também o vídeo onde explico com mais detalhes (aqui)[https://www.youtube.com/watch?v=tGMllk5YJRQ]
+ Cheque também o vídeo onde explico com mais detalhes (https://www.youtube.com/watch?v=tGMllk5YJRQ)[aqui]
 
 ## Dados
 Foi utilizada uma base de mais de 9000 filmes e 100_000 avaliações do site MovieLens, além tags associadas e uma base de ficha técnica do IMDb
